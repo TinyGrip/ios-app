@@ -1,0 +1,51 @@
+PODS:
+  - CKUITools (0.5.4)
+  - Expecta (0.2.4)
+  - ICLoader (1.0.3):
+    - CKUITools
+  - NGAParallaxMotion (1.1.0)
+  - NSURL+QueryDictionary (1.1.0)
+  - OCHamcrest (4.1.1)
+  - OCLogTemplate (1.0.1)
+  - OCMockito (1.4.0):
+    - OCHamcrest (~> 4.0)
+  - PaperFold (1.2)
+  - Typhoon (HEAD based on 3.2.1):
+    - Typhoon/no-arc (= HEAD based on 3.2.1)
+  - Typhoon/no-arc (HEAD based on 3.2.1)
+
+DEPENDENCIES:
+  - CKUITools
+  - Expecta (~> 0.2.1)
+  - ICLoader
+  - NGAParallaxMotion
+  - NSURL+QueryDictionary
+  - OCHamcrest
+  - OCLogTemplate
+  - OCMockito
+  - PaperFold (from `https://github.com/jasperblues/PaperFold-for-iOS.git`, tag `1.2-no-gesture-recognizers`)
+  - Typhoon (HEAD)
+
+EXTERNAL SOURCES:
+  PaperFold:
+    :git: https://github.com/jasperblues/PaperFold-for-iOS.git
+    :tag: 1.2-no-gesture-recognizers
+
+CHECKOUT OPTIONS:
+  PaperFold:
+    :git: https://github.com/jasperblues/PaperFold-for-iOS.git
+    :tag: 1.2-no-gesture-recognizers
+
+SPEC CHECKSUMS:
+  CKUITools: c11046721720fefbe06dee7fb0b2df54627aa329
+  Expecta: cfaf1d3e2e194ca704a25e997093d30a1ce70b61
+  ICLoader: 894bfaa0dc4b64acecaa3e18937036826ff2a22d
+  NGAParallaxMotion: 8772f51f75e5177840053229bbf32bf6f7687e52
+  NSURL+QueryDictionary: dd0a5fec689a9b4780b6fa0e0225c01ca3ea653e
+  OCHamcrest: 6f03ffa81d12feab872638490a44ab0a6d3aca10
+  OCLogTemplate: 3a67ba6e6b40bc7675f6017cb71674e51cd68fa2
+  OCMockito: 4981140c9a9ec06c31af40f636e3c0f25f27e6b2
+  PaperFold: 1cf0beee99261dfc2a85821e3e5f1b6d4a3c365d
+  Typhoon: 18ec2ddce9dcb039d5c82bd7e4235e7868faaa06
+
+COCOAPODS: 0.37.2

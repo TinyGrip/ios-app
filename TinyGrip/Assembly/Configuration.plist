@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>service.url</key>
+	<string>NSURL(http://demo8125797.mockable.io/Tk029Lrjt50wPLsU/api/Root)</string>
+	<key>api.key</key>
+	<string>Tk029Lrjt50wPLsU</string>
+	<key>days.to.retrieve</key>
+	<string>NSNumber(5)</string>
+</dict>
+</plist>
